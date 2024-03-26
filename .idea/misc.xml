@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/methods/pom.xml" />
+        <option value="$PROJECT_DIR$/loopDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/methods2/pom.xml" />
+        <option value="$PROJECT_DIR$/sayiBulma/pom.xml" />
+        <option value="$PROJECT_DIR$/arraysDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/interfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/overriding/pom.xml" />
+        <option value="$PROJECT_DIR$/reCapDemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/reCapDemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/staticDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/switchDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/inheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/stringsDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/abstractDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/conditionals/pom.xml" />
+        <option value="$PROJECT_DIR$/mukemmelSayi/pom.xml" />
+        <option value="$PROJECT_DIR$/sesliHarfler/pom.xml" />
+        <option value="$PROJECT_DIR$/interfaceDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/arkadasSayilar/pom.xml" />
+        <option value="$PROJECT_DIR$/abstractClasses/pom.xml" />
+        <option value="$PROJECT_DIR$/inheritanceDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/polymorphismDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/reCapDemoClasses/pom.xml" />
+        <option value="$PROJECT_DIR$/methodOverloading/pom.xml" />
+        <option value="$PROJECT_DIR$/miniProjeAsalSayi/pom.xml" />
+        <option value="$PROJECT_DIR$/classesWithAttributes/pom.xml" />
+        <option value="$PROJECT_DIR$/multiDimensionalArrayDemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

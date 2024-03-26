@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="arraysDemo" />
+        <module name="arkadasSayilar" />
+        <module name="methods" />
+        <module name="interfaceDemo" />
+        <module name="inheritance" />
+        <module name="abstractClasses" />
+        <module name="staticDemo" />
+        <module name="methods2" />
+        <module name="methodOverloading" />
+        <module name="loopDemo" />
+        <module name="multiDimensionalArrayDemo" />
+        <module name="polymorphismDemo" />
+        <module name="interfaces" />
+        <module name="reCapDemoClasses" />
+        <module name="reCapDemo1" />
+        <module name="sayiBulma" />
+        <module name="switchDemo" />
+        <module name="mukemmelSayi" />
+        <module name="miniProjeAsalSayi" />
+        <module name="sesliHarfler" />
+        <module name="abstractDemo" />
+        <module name="overriding" />
+        <module name="classesWithAttributes" />
+        <module name="inheritanceDemo" />
+        <module name="reCapDemo2" />
+        <module name="stringsDemo" />
+        <module name="conditionals" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
